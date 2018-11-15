@@ -15,5 +15,10 @@
     "express-graphql": "^0.7.1",
     "graphql": "^14.0.2",
     "nodemon": "^1.18.6"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
   }
 }
